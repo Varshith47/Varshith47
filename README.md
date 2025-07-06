@@ -45,11 +45,11 @@
 ### 🔥 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Varshith47&show_icons=true&theme=radical" alt="stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varshith47&theme=radical" alt="streak-stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith47&layout=compact&theme=radical" alt="top-langs" />
 </p>
 
 ---
