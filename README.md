@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full Stack Developer | Tech Enthusiast | Final Year B.Tech Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Varshith47" />
 </p>
 
 ---
